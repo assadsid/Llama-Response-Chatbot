@@ -7,7 +7,7 @@ import asyncio
 
 # Initialize the Groq client with API key
 client = Groq(
-    api_key=os.environ.get("GROQ_API_KEY"),
+    api_key="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",
 )
 
 st.title("Vaccine Info Pakistan Chatbot")
