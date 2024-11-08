@@ -1,0 +1,7 @@
+google.generativeai
+streamlit_chat
+streamlit
+groq
+gtts
+tempfile
+asyncio
